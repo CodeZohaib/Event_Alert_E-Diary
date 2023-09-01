@@ -44,4 +44,32 @@ Before proceeding, ensure that both the project name and the database name are s
 By following these steps, you'll ensure that your project folder, file references, and database connections are appropriately configured for your development environment.
 
 
+<br><br>
+
+**Project Screenshot** <br><br>
+
+![signup](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/670f577d-425e-4c21-95e9-7fe018e70b35)
+**Signup Page**
+ <br><br>
+
+![login](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/49e4b4ab-a229-48ff-be79-cf01ae76b8bf)
+ **Login Page**
+ <br><br>
+
+ 
+![new_appointment](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/11c8c164-7d26-4833-8656-673557290852)
+  **New Appointment Page**
+ <br><br>
+
+![all_event](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/a03f9665-a349-436b-a35e-589c982694e7)
+**All Event Page**
+ <br><br>
+
+![reminder_data](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/468a9378-181d-4c68-b252-3ae401b8e399)
+ **Reminder Data Page**
+ <br><br>
+
+
+ 
+
 
