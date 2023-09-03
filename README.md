@@ -48,24 +48,24 @@ By following these steps, you'll ensure that your project folder, file reference
 
 **Project Screenshot** <br><br>
 
-![signup](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/670f577d-425e-4c21-95e9-7fe018e70b35)
+![signup](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/81f8e721-56b3-483c-a293-a04aeb6ead75)
 **Signup Page**
  <br><br>
 
-![login](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/49e4b4ab-a229-48ff-be79-cf01ae76b8bf)
+![login](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/b7bd41b4-8446-43c3-8ad6-b8090db3d1ab)
  **Login Page**
  <br><br>
 
  
-![new_appointment](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/11c8c164-7d26-4833-8656-673557290852)
+![new_appointment](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/372af740-ece0-407a-9630-1087dbd89049)
   **New Appointment Page**
  <br><br>
 
-![all_event](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/a03f9665-a349-436b-a35e-589c982694e7)
+![all_event](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/e60b9a39-6ce9-4e4a-b46a-fb00821d5757)
 **All Event Page**
  <br><br>
 
-![reminder_data](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/468a9378-181d-4c68-b252-3ae401b8e399)
+![reminder_data](https://github.com/CodeZohaib/Event_Alert_E-Diary/assets/142882799/d459260e-dafd-4fd3-8dab-cc5b03364522)
  **Reminder Data Page**
  <br><br>
 
